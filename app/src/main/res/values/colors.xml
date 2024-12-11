@@ -1,0 +1,4 @@
+<resources>
+    <color name="text_primary">#000000</color> <!-- Черный текст -->
+    <color name="text_hint">#808080</color> <!-- Серый текст -->
+</resources>

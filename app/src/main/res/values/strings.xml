@@ -1,0 +1,8 @@
+<resources>
+    <string name="welcome_text">Добро пожаловать</string>
+    <string name="hint_enter_text">Введите текст</string>
+    <string name="button_text">Отправить</string>
+    <string name="app_name">Мое приложение</string>
+
+
+</resources>
